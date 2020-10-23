@@ -12,6 +12,11 @@ Something like The Byzantine Chefs Problem: Chicken or Fish. ;)
 
 This is gonna take some study and work.
 
+
+First Project that worked:  Quantum Wasps. Quantum Wasps are territorial.  
+A derivative inspired by Victoria G's antennas problem.
+
+
 Proceeding.
 
 
