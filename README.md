@@ -13,8 +13,9 @@ This is gonna take some study and work.
 -----
 First Project that worked:  Quantum Wasps. Quantum Wasps are territorial.  
 A derivative inspired by Victoria G's antennas problem. 2 variant's python scripts and results pics 
-with multiple attempts posted here. I didn't get what I expectd at first, figured out why and redid.
-Notes in the scripts.
+with multiple attempts posted here. I didn't get what I expected at first, figured out why and redid.
+Notes in the scripts as comments.
+
 
 
 Proceeding.
