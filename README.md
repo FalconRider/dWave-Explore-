@@ -17,22 +17,10 @@ with multiple attempts posted here. I didn't get what I expected at first, figur
 Notes in the scripts as comments.
 
 -------
-Second twist on this VGA  model:   Sentry assigment around a Pyramid shaped camp with a set of 9 Watchtowers.
-Post minimum senties to patrol around 3 sided 9 tower perimeter. 
-Assigned every second watchtower to patrol back and forth 
-between start tower and next highest two protecting central building #5.
-How many needed. Starting positions, and alternatives.
-
-Viz	        1
-
-        2       3		
-        
-     4      5*      6
-     
- 7       8      9      10
- 
- 
- This came back with a number of alternatives on succesive runs. As expected.
+Second twist on this VGA  model:  Post minimum senties to patrol around 3 sided 9 watchtower perimeter. 
+Assigned every second tower to patrol back and forth between start tower and next highest two
+protecting central building #5. How many needed. Starting positions, and alternatives. 
+This came back with a number of alternative starts on succesive runs. As expected. See results pic.
 
 ---------------
 
